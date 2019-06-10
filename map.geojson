@@ -527,6 +527,54 @@
           49.67104758475865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Grafitti - obacht wegen Lvl17-Nachbar Basinusbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614061772823334,
+          49.68351466074638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz - Obacht wegen Lvl17-Nachbarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614917397499084,
+          49.68320402066896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "GGEW-Stromkastengraffit - Obacht wegen Lvl17-Nachbarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615958094596863,
+          49.68266256506305
+        ]
+      }
     }
   ]
 }
