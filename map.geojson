@@ -431,6 +431,21 @@
           49.6940630972079
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Auffangbecken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632829189300537,
+          49.67664020040991
+        ]
+      }
   ]
 }
