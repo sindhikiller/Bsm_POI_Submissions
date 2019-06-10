@@ -463,6 +463,22 @@
           49.69991502578476
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Die Hahnmühle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.630715608596802,
+          49.67457125057468
+        ]
+      }
     }
   ]
 }
