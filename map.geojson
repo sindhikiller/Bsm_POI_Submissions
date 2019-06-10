@@ -1,1 +1,436 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","label":"Sandkasten"},"geometry":{"type":"Point","coordinates":[8.605760335922241,49.681032955558344]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Drachentöter"},"geometry":{"type":"Point","coordinates":[8.607973158359528,49.67856847960554]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","label":"Wandmalerei Ritter Georg"},"geometry":{"type":"Point","coordinates":[8.606361150741577,49.68035263383298]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","label":"Hundezwinger"},"geometry":{"type":"Point","coordinates":[8.606323599815369,49.68043941009288]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","label":"Spielplatz Fliederweg"},"geometry":{"type":"Point","coordinates":[8.626896142959593,49.679670567037746]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Hinkelstein (Menhir)"},"geometry":{"type":"Point","coordinates":[8.628805875778198,49.67621669770888]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Basketballfelder"},"geometry":{"type":"Point","coordinates":[8.605615496635437,49.68437368302949]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Doppelrutsche"},"geometry":{"type":"Point","coordinates":[8.607004880905151,49.68395718927258]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Ev. Stephanusgemeinde"},"geometry":{"type":"Point","coordinates":[8.609386682510376,49.68487000009713]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Spielplatz Dammstraße"},"geometry":{"type":"Point","coordinates":[8.61527144908905,49.68621662507806]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Beachvolleyballfeld"},"geometry":{"type":"Point","coordinates":[8.603947162628174,49.68819831719798]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Spielplatz am Badesee"},"geometry":{"type":"Point","coordinates":[8.605186343193054,49.68796579358445]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Rote Schaukel"},"geometry":{"type":"Point","coordinates":[8.62552285194397,49.672856316045596]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Spielplatz Jakobsweg"},"geometry":{"type":"Point","coordinates":[8.627931475639343,49.67016576047134]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Sitzender Schäfer"},"geometry":{"type":"Point","coordinates":[8.607230186462402,49.67836541510156]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Bunte Türme"},"geometry":{"type":"Point","coordinates":[8.61102283000946,49.67915337006196]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"4FCircle"},"geometry":{"type":"Point","coordinates":[8.611650466918945,49.69235579048416]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Lebensraum Winkelbach Infotafel"},"geometry":{"type":"Point","coordinates":[8.610969185829163,49.6923627308768]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Skatepark"},"geometry":{"type":"Point","coordinates":[8.610781431198118,49.69420884012541]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Kinderspielplatz Taunusanlage"},"geometry":{"type":"Point","coordinates":[8.60528826713562,49.68317972471329]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Bashier Moschee"},"geometry":{"type":"Point","coordinates":[8.593400716781616,49.68558843610753]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Wandmalerei Gelocherte Sechsecke"},"geometry":{"type":"Point","coordinates":[8.612605333328247,49.67966362483287]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Spielplatz Jakob-Kindinger-Straße"},"geometry":{"type":"Point","coordinates":[8.612219095230103,49.68603962237735]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Spielerisch Lernen"},"geometry":{"type":"Point","coordinates":[8.608206510543823,49.68627909646562]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Schutzhütte Seniorenbouler"},"geometry":{"type":"Point","coordinates":[8.614053726196289,49.69350788208973]}},{"type":"Feature","properties":{"marker-color":"#0432ff","marker-size":"medium","marker-symbol":"","label":"Bunte Holzstäbe"},"geometry":{"type":"Point","coordinates":[8.614638447761536,49.687979675622444]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "label": "Sandkasten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.605760335922241,
+          49.681032955558344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Drachentöter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.607973158359528,
+          49.67856847960554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Wandmalerei Ritter Georg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606361150741577,
+          49.68035263383298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Hundezwinger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606323599815369,
+          49.68043941009288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz Fliederweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.626896142959593,
+          49.679670567037746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Hinkelstein (Menhir)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.628805875778198,
+          49.67621669770888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Basketballfelder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.605615496635437,
+          49.68437368302949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Doppelrutsche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.607004880905151,
+          49.68395718927258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Ev. Stephanusgemeinde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.609386682510376,
+          49.68487000009713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz Dammstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61527144908905,
+          49.68621662507806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Beachvolleyballfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.603947162628174,
+          49.68819831719798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz am Badesee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.605186343193054,
+          49.68796579358445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Rote Schaukel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62552285194397,
+          49.672856316045596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz Jakobsweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.627931475639343,
+          49.67016576047134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Sitzender Schäfer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.607230186462402,
+          49.67836541510156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bunte Türme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61102283000946,
+          49.67915337006196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "4FCircle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.611650466918945,
+          49.69235579048416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Lebensraum Winkelbach Infotafel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.610969185829163,
+          49.6923627308768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Skatepark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.610781431198118,
+          49.69420884012541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Kinderspielplatz Taunusanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60528826713562,
+          49.68317972471329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bashier Moschee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.593400716781616,
+          49.68558843610753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Wandmalerei Gelocherte Sechsecke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.612605333328247,
+          49.67966362483287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz Jakob-Kindinger-Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.612219095230103,
+          49.68603962237735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielerisch Lernen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.608206510543823,
+          49.68627909646562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Schutzhütte Seniorenbouler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614053726196289,
+          49.69350788208973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bunte Holzstäbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614638447761536,
+          49.687979675622444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Fußballfeld am Weiherhausstadion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.611371517181396,
+          49.6940630972079
+        ]
+      }
+    }
+  ]
+}
