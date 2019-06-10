@@ -479,6 +479,54 @@
           49.67457125057468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Historischer Rundgang bei Taxi Bergholz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.622695803642273,
+          49.67612470688052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Ggew Graffiti bei tegut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6264830827713,
+          49.67028727264171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Ggew Graffiti blumen/Glühbirnen bei Kleingarten Bensheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621124029159546,
+          49.67104758475865
+        ]
+      }
     }
   ]
 }
