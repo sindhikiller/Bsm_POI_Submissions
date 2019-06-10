@@ -575,6 +575,38 @@
           49.68266256506305
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Taubstummenanstalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621065020561218,
+          49.688271197504605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Wandmalerei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621166944503784,
+          49.68793455898446
+        ]
+      }
     }
   ]
 }
