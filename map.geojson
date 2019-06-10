@@ -431,6 +431,22 @@
           49.6940630972079
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Miniaturgolf Bahnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.619565665721893,
+          49.69991502578476
+        ]
+      }
     }
   ]
 }
