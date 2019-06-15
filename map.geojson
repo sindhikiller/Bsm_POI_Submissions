@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Ev. Stephanusgemeinde"
@@ -531,10 +531,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Grafitti - obacht wegen Lvl17-Nachbar Basinusbad"
+        "label": "Nemo und Dori - Grafitti"
       },
       "geometry": {
         "type": "Point",
@@ -605,6 +605,38 @@
         "coordinates": [
           8.621166944503784,
           49.68793455898446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Harmonie 1861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61802875995636,
+          49.68056263211588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Der Drachentöter mit Heiligenschein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.627695441246033,
+          49.672321688464145
         ]
       }
     }
